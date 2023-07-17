@@ -59,7 +59,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=amiralikht&theme=react&hide_border=true&border_radius=4.7&card_width=800&fire=EB8822&ring=2975EB&currStreakNum=2975EBEF&sideNums=2975EB&sideLabels=2963F9D8&dates=EBEBEB89&currStreakLabel=EB8822&background=EB545400)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amiralikht&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiralikht&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 
 <!--
 **amiralikht/amiralikht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
