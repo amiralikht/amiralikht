@@ -25,7 +25,7 @@
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Amirali-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirali-khalajtehrani-87534820b)
 
 - :mailbox_with_mail: Gmail : amiralikt98@gmail.com 
- [ https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg)
+ [![ https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg)
   
 - :mailbox_with_mail: Email : amiralitehrani77@yahoo.com
 
