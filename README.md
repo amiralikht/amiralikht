@@ -26,10 +26,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="amiralikt98@gmail.com" target="_blank" title="amiralikt98@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="amiralikt98@gmail.com" target="_blank" title="amiralikt98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="YahooMail Badge"/>
+  <a href="amiralitehrani77@yahoo.com" target="_blank" title="amiralitehrani77@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-darkpurple?style=for-the-badge&logo=yahoo&logoColor=white" alt="YahooMail Badge"/>
   </a>
 - 
 - :mailbox_with_mail: Gmail : amiralikt98@gmail.com 
