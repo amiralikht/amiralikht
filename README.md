@@ -1,4 +1,3 @@
-### Hi there 👋, I'm Amirali
 <div id="header" align="center">
   <img src="./Code typing-bro.svg" width="300"/>
 </div>
@@ -6,8 +5,11 @@
   <a href="https://www.linkedin.com/in/amirali-khalajtehrani-87534820b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
 </div>
+<h1>
+  hey there, I'm Amirali
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <!--
 **amiralikht/amiralikht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
