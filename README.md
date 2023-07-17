@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Amirali
 <div id="header" align="center">
-  <img src="./Code typing-bro.svg" width="500"/>
+  <img src="./Code typing-bro.svg" width="300"/>
 </div>
 <!--
 **amiralikht/amiralikht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
