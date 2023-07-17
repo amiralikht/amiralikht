@@ -59,7 +59,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=amiralikht&theme=react&hide_border=true&border_radius=4.7&card_width=800&fire=EB8822&ring=2975EB&currStreakNum=2975EBEF&sideNums=2975EB&sideLabels=2963F9D8&dates=EBEBEB89&currStreakLabel=EB8822&background=EB545400)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiralikht&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-profile-trophy.vercel.app/?username=amiralikht&theme=juicyfresh&no-bg=true" />
 
 
 <!--
