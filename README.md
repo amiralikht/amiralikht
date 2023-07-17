@@ -56,7 +56,8 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=amiralikht&theme=react&hide_border=true&border_radius=4.7&card_width=500&fire=EB8822&ring=2975EB&currStreakNum=2975EBEF&sideNums=2975EB&sideLabels=2963F9D8&dates=EBEBEB89&currStreakLabel=EB8822)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=amiralikht&theme=react&hide_border=true&border_radius=4.7&card_width=800&fire=EB8822&ring=2975EB&currStreakNum=2975EBEF&sideNums=2975EB&sideLabels=2963F9D8&dates=EBEBEB89&currStreakLabel=EB8822&background=EB545400)](https://git.io/streak-stats)
 <!--
 **amiralikht/amiralikht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
