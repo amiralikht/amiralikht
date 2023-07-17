@@ -23,6 +23,7 @@
 - :zap: In my free time, I do coding, working out and hiking.
 
 - :mailbox: How to reach me: ![https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg](https://www.linkedin.com/in/amirali-khalajtehrani-87534820b)
+- ![https://www.linkedin.com/in/amirali-khalajtehrani-87534820b](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg)
 - :mailbox_with_mail: Gmail : amiralikt98@gmail.com 
   ![ https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg)
   
