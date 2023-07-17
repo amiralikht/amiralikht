@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Amirali
 <div id="header" align="center">
-  <img src="https://storyset.com/illustration/code-typing/bro#4389FFFF&hide=&hide=simple" width="100"/>
+  <img src="./Code typing-bro.svg" width="100"/>
 </div>
 <!--
 **amiralikht/amiralikht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
