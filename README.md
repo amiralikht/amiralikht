@@ -38,9 +38,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="css3 " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  title="Express" alt="express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  title="Express" alt="express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git"  alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -51,8 +51,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="php" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socketio" **alt="socketio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="Xd" **alt="xd" width="40" height="40"/>
-  
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=amiralikht&theme=react&hide_border=true&border_radius=4.7&card_width=500&fire=EB8822&ring=2975EB&currStreakNum=2975EBEF&sideNums=2975EB&sideLabels=2963F9D8&dates=EBEBEB89&currStreakLabel=EB8822)](https://git.io/streak-stats)
 <!--
 **amiralikht/amiralikht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
