@@ -24,8 +24,8 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Amirali-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirali-khalajtehrani-87534820b)
 
-- :mailbox_with_mail:
-%20%20%20 Gmail : amiralikt98@gmail.com
+- :mailbox_with_mail: Gmail : amiralikt98@gmail.com
+- :mailbox_with_mail: Email : amiralitehrani77@yahoo.com
   
 <!--
 **amiralikht/amiralikht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
