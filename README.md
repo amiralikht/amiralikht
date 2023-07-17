@@ -15,6 +15,13 @@
 </div>
 <h3>🙋‍♂️: About Me :</h3>
 <h5>I am a Full Stack Developer <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="40"></h5>
+- :computer: I’m working as a Web Developer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 <!--
 **amiralikht/amiralikht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
