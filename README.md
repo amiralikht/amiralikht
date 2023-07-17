@@ -31,9 +31,6 @@
   <a href="amiralitehrani77@yahoo.com" target="_blank" title="amiralitehrani77@yahoo.com">
     <img src="https://img.shields.io/badge/yahoo-purple?style=for-the-badge&logo=yahoo&logoColor=white" alt="YahooMail Badge"/>
   </a>
-- 
-- :mailbox_with_mail: Gmail : amiralikt98@gmail.com 
-- :mailbox_with_mail: Email : amiralitehrani77@yahoo.com
 
 ---
 
