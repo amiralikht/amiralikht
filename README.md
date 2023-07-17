@@ -24,7 +24,9 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Amirali-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirali-khalajtehrani-87534820b)
 
-- :mailbox_with_mail: Gmail : amiralikt98@gmail.com https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+- :mailbox_with_mail: Gmail : amiralikt98@gmail.com <a href="#">
+    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
 - :mailbox_with_mail: Email : amiralitehrani77@yahoo.com
 
 ---
