@@ -27,7 +27,7 @@
 - :mailbox_with_mail: Gmail : amiralikt98@gmail.com <a href="#">
     <img src="[https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/social/gmail.svg](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg)" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
-  [![https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/social/gmail.svg](amiralikt98@gmail.com)
+  [![https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/social/gmail.svg](amiralikt98@gmail.com)]
   
 - :mailbox_with_mail: Email : amiralitehrani77@yahoo.com
 
