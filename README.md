@@ -6,12 +6,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<h1>
-  hey there, <span style:"font-weight:600">I'm Amirali</span> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="100"/>
+<h1 align="center">
+  hey there, <strong>I'm Amirali</strong> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="./Low code development (1).gif" width="600" height="300" alt="https://storyset.com/people">People illustrations by Storyset"/>
+  <img src="./output-onlinegiftools.gif" width="600" height="600" alt="https://storyset.com/people"/>
 </div>
 <!--
 **amiralikht/amiralikht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
