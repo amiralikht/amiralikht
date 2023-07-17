@@ -14,7 +14,7 @@
   <img src="./output-onlinegiftools.gif" width="400" height="400" alt="https://storyset.com/people"/>
 </div>
 <h4>🙋‍♂️: About Me :</h4>
-I am a Full Stack Developer <img src="https://giphy.com/stickers/transparent-dMLmQfCO7lCA2gX3tw" width="30">.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="30">.
 <!--
 **amiralikht/amiralikht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
