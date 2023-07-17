@@ -13,8 +13,7 @@
 <div align="center">
   <img src="./output-onlinegiftools.gif" width="400" height="400" alt="https://storyset.com/people"/>
 </div>
----
-### :woman_technologist: About Me :
+<h4>🙋‍♂️: About Me :</h4>
 <!--
 **amiralikht/amiralikht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
