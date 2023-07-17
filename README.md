@@ -13,8 +13,8 @@
 <div align="center">
   <img src="./output-onlinegiftools.gif" width="400" height="400" alt="https://storyset.com/people"/>
 </div>
-<h3>🙋‍♂️: About Me :</h3>
-<h5>I am a Full Stack Developer <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="40"></h5>
+<h2>🙋‍♂️: About Me :</h2>
+<h3>I am a Full Stack Developer <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="40"></h3>
 
 - :computer: I’m working as a Web Developer and contributing to frontend and backend for building web applications..
 
