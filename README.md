@@ -24,7 +24,7 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Amirali-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirali-khalajtehrani-87534820b)
 
-- :mailbox_with_mail: Gmail : amiralikt98@gmail.com
+- :mailbox_with_mail: Gmail : amiralikt98@gmail.com https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 - :mailbox_with_mail: Email : amiralitehrani77@yahoo.com
 
 ---
@@ -59,7 +59,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=amiralikht&theme=react&hide_border=true&border_radius=4.7&card_width=800&fire=EB8822&ring=2975EB&currStreakNum=2975EBEF&sideNums=2975EB&sideLabels=2963F9D8&dates=EBEBEB89&currStreakLabel=EB8822&background=EB545400)](https://git.io/streak-stats)
 
-<img src="https://github-profile-trophy.vercel.app/?username=amiralikht&theme=juicyfresh&no-bg=true" />
 
 
 <!--
