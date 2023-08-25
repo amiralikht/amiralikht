@@ -7,7 +7,7 @@
   </a>
 </div>
 <h1 align="center">
-  hey there, <strong>I'm Amirali</strong> 
+  Hey there, <strong>I'm Amirali</strong> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h2>🙋‍♂️: About Me :</h2>
