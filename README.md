@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="./Code typing-bro.svg" width="300"/>
+<div align="center">
+  <img src="./output-onlinegiftools.gif" width="400" height="400" alt="https://storyset.com/people"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/amirali-khalajtehrani-87534820b" target="_blank">
@@ -10,9 +10,6 @@
   hey there, <strong>I'm Amirali</strong> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="./output-onlinegiftools.gif" width="400" height="400" alt="https://storyset.com/people"/>
-</div>
 <h2>🙋‍♂️: About Me :</h2>
 <h3>I am a Full Stack Developer <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="40"></h3>
 
